@@ -1,2 +1,2 @@
 # akhileshNewRep
-This is Akki first Githum Repository
+This is Akki First Github Repository
